@@ -1,1 +1,1 @@
-# flappybirdgit
+# flappybird developed with python
